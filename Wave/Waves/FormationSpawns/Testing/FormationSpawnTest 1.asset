@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97497e89feffa8e45a4cccff253eca9a, type: 3}
+  m_Name: FormationSpawnTest 1
+  m_EditorClassIdentifier: 
+  spawnInitiateTime: 2
+  maximumDuration: 0
+  formationObjects:
+  - {fileID: 11400000, guid: de2840bd4cd849247b6584c9c0fced5f, type: 2}
+  - {fileID: 11400000, guid: 5e29283da4d280647b424de4173a2bc4, type: 2}
+  - {fileID: 11400000, guid: 6b6d40f9e2f7e3941a351c43a47e2fbc, type: 2}
+  - {fileID: 11400000, guid: 6d7a6b58ea1fff140bc942bde344a774, type: 2}
+  - {fileID: 11400000, guid: fe58766c5b994b2419d90be383948b8d, type: 2}
